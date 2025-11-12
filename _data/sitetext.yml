@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: "MAIP: Madison AI for Proteins*"
+    text: "Madison AI for Proteins*"
     title: "*And RNA, ligands, genomes ..." 
     button: Tell Me More
     buttonlink: "#services"
@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "Monthly 'anti-seminar' chalk talks"
-        desc: "Monthly lunch chalk talks where community members will talk about their research, focusing on aspects that 'went wrong'."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Chalk talks"
+        desc: "Monthly lunch seminars that focus research that 'went wrong'."
+        icon: fas chalkboard-user #find more at https://fontawesome.com/icons
       - title: "Computational resources"
         desc: "Shared community resources for running common ML tools for proteins."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        icon: fas head-side-gear
+      - title: "Events"
+        desc: "More events"
         icon: fab fa-markdown
 
   about:
@@ -63,14 +63,13 @@ en: &DEFAULT_EN
     people:
       - name: "Hannah Wayment-Steele"
         role: "Biochemistry"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
       - name: "Anthony Gitter"
         role: "Biomedical Informatics / Morgridge Institute"
         image: assets/img/team/2.jpg
@@ -79,8 +78,7 @@ en: &DEFAULT_EN
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
