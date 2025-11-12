@@ -17,24 +17,24 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Activities"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Monthly 'anti-seminar' chalk talks"
+        desc: "Monthly lunch chalk talks where community members will talk about their research, focusing on aspects that 'went wrong'."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Computational resources"
+        desc: "Shared community resources for running common ML tools for proteins."
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   about:
-    title: "About Us"
+    title: "About us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Molecular biology, structural biology, and more are being fundamentally altered by fast-moving research in deep learning. This community is to bring together researchers at UW-Madison working in this space."
     section: about
 
   clients:
