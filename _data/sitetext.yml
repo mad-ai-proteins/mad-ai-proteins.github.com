@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Chalk talks"
-        desc: "Monthly lunch seminars that focus research that 'went wrong'."
+        desc: "Monthly lunch seminars that focus on research that 'went wrong'."
         icon: fas chalkboard-user #find more at https://fontawesome.com/icons
       - title: "Computational resources"
         desc: "Shared community resources for running common ML tools for proteins."
