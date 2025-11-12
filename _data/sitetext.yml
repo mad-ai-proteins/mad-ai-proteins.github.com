@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Events"
         desc: "More events"
-        icon: fab fa-clone
+        icon: fas fa-rocket
 
   about:
     title: "About MAIP"
