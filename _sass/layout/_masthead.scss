@@ -5,7 +5,7 @@ header.masthead {
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center center; 
   background-size: cover;
   .intro-text {
     padding-top: 150px;
@@ -26,8 +26,12 @@ header.masthead {
     }
   }
 }
+
 @media (min-width: 768px) {
   header.masthead {
+    background-position: 35% center; 
+    background-size: cover;
+
     .intro-text {
       padding-top: 300px;
       padding-bottom: 200px;
