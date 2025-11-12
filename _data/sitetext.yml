@@ -30,26 +30,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About MAIP"
-    body: "Madison AI for Proteins (MAIP) is a new initiative to bring together researchers at UW-Madison working in this space. Molecular biology, structural biology, and more are being fundamentally altered by fast-moving research in deep learning. We draw inspiration from the Maip dinosaur, a large raptorid that lived in South America."
+    body: "Madison AI for Proteins (MAIP) is a new initiative to bring together researchers at UW-Madison working in machine learning/AI for molecular biology, structural biology, and more. We draw inspiration from the Maip dinosaur, a large raptorid that lived in South America."
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Organizers"
