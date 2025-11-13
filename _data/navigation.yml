@@ -11,14 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Activities"
       section: services
     - title: "About"
       section: about
-    - title: "Team"
+    - title: "Organizers"
       section: team
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 
 en-001: #English (World)
   <<: *DEFAULT_EN
