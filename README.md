@@ -174,6 +174,8 @@ Add pages, documents, data, etc. like normal to test the theme's contents. As yo
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
+The [Maip macrothorax image](assets/img/header.png) is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) by Wikimedia user [SpinoDragon145](https://commons.wikimedia.org/wiki/User:SpinoDragon145), who has an excellent [gallery](https://sites.google.com/view/galaxoica/art?authuser=0) of dinosaur art.
+
 <!--
 
 ## Example Implementations
